@@ -4,6 +4,7 @@
     --secondary: #F9CD5E;
     --light: #F7F8FC;
     --dark: #111111;
+    --fb: #00a5fa;
 }
 
 .back-to-top {
@@ -107,31 +108,71 @@
 }
 
 .navbar .navbar-nav .nav-link {
-    padding: 25px 15px;
+    padding: 6px 25px;
     color: white;
     font-weight: 500;
     outline: none;
 }
 
+.navbar .navbar-nav .nav-link:hover {
+    border: 3px solid var(--secondary);
+    border-radius: 25px;
+}
+
 .navbar .navbar-nav .nav-link:hover,
 .navbar .navbar-nav .nav-link.active {
     color: var(--secondary);
-    border-radius: 100px;
+    border: none;
+    /* border-radius: 100px; */
 }
 
 @media (max-width: 991.98px) {
+    .navbar .navbar-nav .nav-link:hover,
+    .navbar .navbar-nav .nav-link.active {
+        border: none;
+    }
     .navbar .navbar-nav {
         margin-top: 10px;
         border-top: 1px solid rgba(0, 0, 0, .07);
-        background: var(--primary);
+        /* background: var(--primary); */
     }
 
     .navbar .navbar-nav .nav-link {
         padding: 10px 0;
+        font-weight: 600;
     }
+
+    .navbar .nav-item .dropdown-menu {
+        background-color: var(--primary);
+
+    }
+
+    .navbar .nav-item .dropdown-menu .dropdown-item{
+        color: #fff;
+        font-weight: 400;
+
+    }
+    
+    .navbar .nav-item .dropdown-menu .dropdown-item:hover{
+        color: var(--secondary);
+    }
+
+    .navbar .nav-item:hover .dropdown-menu {
+        background-color: var(--primary);
+    }
+
 }
 
 @media (min-width: 992px) {
+    .navbar .navbar-nav .nav-link:hover,
+    .navbar .navbar-nav .nav-link.active {
+        border: none;
+    }
+
+    .navbar .nav-item .dropdown-menu .dropdown-item:hover{
+        color: var(--secondary);
+    }
+
     .navbar .nav-item .dropdown-menu {
         display: block;
         visibility: hidden;
@@ -140,6 +181,12 @@
         transform-origin: 0% 0%;
         transition: .5s;
         opacity: 0;
+        background-color: var(--primary);
+        color: #fff;
+    }
+
+    .navbar .nav-item .dropdown-menu .dropdown-item{
+        color: #fff;
     }
 
     .navbar .nav-item:hover .dropdown-menu {
@@ -147,6 +194,8 @@
         visibility: visible;
         transition: .5s;
         opacity: 1;
+        background-color: var(--primary);
+        color: #fff;
     }
 }
 
@@ -266,7 +315,7 @@
 
 /*** Product ***/
 .nav-pills .nav-item .btn {
-    color: var(--dark);
+    color: #fff;
 }
 
 .nav-pills .nav-item .btn:hover,
@@ -385,4 +434,85 @@
 
 .footer .copyright a:hover {
     color: var(--primary);
+}
+
+
+/* new */
+
+/* .navbar .navbar-nav .nav-link:hover {
+    border: 3px solid var(--secondary);
+    border-radius: 25px;
+} */
+
+
+.navbar .nav-item .dropdown-menu .dropdown-item:hover{
+    background-color: var(--primary);
+    color: #fff;
+}
+
+
+.secondary{
+    border: 1px solid var(--secondary);
+    background-color: var(--secondary);
+}
+
+.testimonial-item{
+    padding: 0;
+}
+
+.testimonial-item img{
+    width: 200px;
+}
+
+.display-5{
+    color: #fff;
+}
+
+.py-6 {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.owl-item .cloned{
+    width: 200px;
+}
+.owl-item{
+    width: 200px;
+}
+
+.footer-logo{
+    width: 200px;
+}
+
+.text-secondary{
+    color: var(--secondary)!important;
+}
+
+.h5{
+    color: #fff;
+}
+
+.ms-2 .bg-white:hover{
+    background-color: var(--secondary) !important;
+}
+
+.text-end .fa-facebook-f:hover{
+    color: var(--fb) !important;
+}
+
+.btn-outline-primary{
+    color: var(--fb) !important;
+}
+
+
+.pt-2 .btn-outline-primary:hover{
+    background-color: var(--fb) !important;
+    color: #fff !important;
+}
+
+
+.primary{
+    border: 1px solid var(--primary);
+    background-color: var(--primary);
+    color: #fff;
 }
