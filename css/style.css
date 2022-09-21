@@ -534,3 +534,9 @@
     border: 1px solid var(--secondary) !important;
     color: #000 !important;
 }
+
+.pr:hover{
+    border: 1px solid var(--primary) !important;
+    background-color: var(--primary) !important;
+    color: #fff;
+}
