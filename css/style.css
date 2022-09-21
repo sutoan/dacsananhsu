@@ -512,7 +512,25 @@
 
 
 .primary{
-    border: 1px solid var(--primary);
-    background-color: var(--primary);
+    border: 1px solid var(--primary) !important;
+    background-color: var(--primary) !important;
     color: #fff;
+}
+
+.none{
+    display: none !important;
+}
+
+.text-secondary{
+    color: var(--secondary) !important;
+}
+
+.white{
+    color: #fff !important;
+}
+
+.border-2:hover{
+    background-color: var(--secondary) !important;
+    border: 1px solid var(--secondary) !important;
+    color: #000 !important;
 }
