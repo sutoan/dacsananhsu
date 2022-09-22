@@ -12,36 +12,16 @@
     border: 1px solid #dee2e6;
 }
 
-.cover{
-    background-color: #ccc;
-}
-
-.cover table{
-    width: 85%;
-    height: auto;
-    padding: 10px;
+table{
     text-align: center;
 }
-table tbody tr td,
-.cover table thead tr td{
-    border: 1px solid black;
+
+.product .img{
+    height: 120px;
+    width: 60px;
 }
 
-.cover table thead tr td{
-    width: 33.333333%;
-}
-
-table tbody tr .img{
-    height: 150px;
-    width: 50px;
-}
-
-.img img{
+.product .img img{
     height: 100%;
     width: auto;
-}
-
-table tr .descr{
-    width: 120px;
-    overflow: auto;
 }
