@@ -51,41 +51,6 @@
           </li>
         </ul>
         <ul class="navbar-nav ms-auto">
-          <li class="nav-item dropdown d-none d-lg-block">
-            <a class="nav-link dropdown-bordered dropdown-toggle dropdown-toggle-split" id="messageDropdown" href="#"
-              data-bs-toggle="dropdown" aria-expanded="false"> Select Category </a>
-            <div class="dropdown-menu dropdown-menu-right navbar-dropdown preview-list pb-0"
-              aria-labelledby="messageDropdown">
-              <a class="dropdown-item py-3">
-                <p class="mb-0 font-weight-medium float-left">Select category</p>
-              </a>
-              <div class="dropdown-divider"></div>
-              <a class="dropdown-item preview-item">
-                <div class="preview-item-content flex-grow py-2">
-                  <p class="preview-subject ellipsis font-weight-medium text-dark">Bootstrap Bundle </p>
-                  <p class="fw-light small-text mb-0">This is a Bundle featuring 16 unique dashboards</p>
-                </div>
-              </a>
-              <a class="dropdown-item preview-item">
-                <div class="preview-item-content flex-grow py-2">
-                  <p class="preview-subject ellipsis font-weight-medium text-dark">Angular Bundle</p>
-                  <p class="fw-light small-text mb-0">Everything you’ll ever need for your Angular projects</p>
-                </div>
-              </a>
-              <a class="dropdown-item preview-item">
-                <div class="preview-item-content flex-grow py-2">
-                  <p class="preview-subject ellipsis font-weight-medium text-dark">VUE Bundle</p>
-                  <p class="fw-light small-text mb-0">Bundle of 6 Premium Vue Admin Dashboard</p>
-                </div>
-              </a>
-              <a class="dropdown-item preview-item">
-                <div class="preview-item-content flex-grow py-2">
-                  <p class="preview-subject ellipsis font-weight-medium text-dark">React Bundle</p>
-                  <p class="fw-light small-text mb-0">Bundle of 8 Premium React Admin Dashboard</p>
-                </div>
-              </a>
-            </div>
-          </li>
           <li class="nav-item d-none d-lg-block">
             <div id="datepicker-popup" class="input-group date datepicker navbar-date-picker">
               <span class="input-group-addon input-group-prepend border-right">
@@ -211,28 +176,7 @@
     <!-- partial -->
     <div class="container-fluid page-body-wrapper">
       <!-- partial:partials/_settings-panel.html -->
-      <div class="theme-setting-wrapper">
-        <div id="settings-trigger"><i class="ti-settings"></i></div>
-        <div id="theme-settings" class="settings-panel">
-          <i class="settings-close ti-close"></i>
-          <p class="settings-heading">SIDEBAR SKINS</p>
-          <div class="sidebar-bg-options selected" id="sidebar-light-theme">
-            <div class="img-ss rounded-circle bg-light border me-3"></div>Light
-          </div>
-          <div class="sidebar-bg-options" id="sidebar-dark-theme">
-            <div class="img-ss rounded-circle bg-dark border me-3"></div>Dark
-          </div>
-          <p class="settings-heading mt-2">HEADER SKINS</p>
-          <div class="color-tiles mx-0 px-4">
-            <div class="tiles success"></div>
-            <div class="tiles warning"></div>
-            <div class="tiles danger"></div>
-            <div class="tiles info"></div>
-            <div class="tiles dark"></div>
-            <div class="tiles default"></div>
-          </div>
-        </div>
-      </div>
+
       <div id="right-sidebar" class="settings-panel">
         <i class="settings-close ti-close"></i>
         <ul class="nav nav-tabs border-top" id="setting-panel" role="tablist">
@@ -570,58 +514,6 @@
                           </div>
                         </div>
                       </div>
-                      <div class="col-lg-4 d-flex flex-column">
-                        <div class="row flex-grow">
-                          <div class="col-md-6 col-lg-12 grid-margin stretch-card">
-                            <div class="card bg-primary card-rounded">
-                              <div class="card-body pb-0">
-                                <h4 class="card-title card-title-dash text-white mb-4">Status Summary</h4>
-                                <div class="row">
-                                  <div class="col-sm-4">
-                                    <p class="status-summary-ight-white mb-1">Closed Value</p>
-                                    <h2 class="text-info">357</h2>
-                                  </div>
-                                  <div class="col-sm-8">
-                                    <div class="status-summary-chart-wrapper pb-4">
-                                      <canvas id="status-summary"></canvas>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                          <div class="col-md-6 col-lg-12 grid-margin stretch-card">
-                            <div class="card card-rounded">
-                              <div class="card-body">
-                                <div class="row">
-                                  <div class="col-sm-6">
-                                    <div class="d-flex justify-content-between align-items-center mb-2 mb-sm-0">
-                                      <div class="circle-progress-width">
-                                        <div id="totalVisitors" class="progressbar-js-circle pr-2"></div>
-                                      </div>
-                                      <div>
-                                        <p class="text-small mb-2">Total Visitors</p>
-                                        <h4 class="mb-0 fw-bold">26.80%</h4>
-                                      </div>
-                                    </div>
-                                  </div>
-                                  <div class="col-sm-6">
-                                    <div class="d-flex justify-content-between align-items-center">
-                                      <div class="circle-progress-width">
-                                        <div id="visitperday" class="progressbar-js-circle pr-2"></div>
-                                      </div>
-                                      <div>
-                                        <p class="text-small mb-2">Visits per day</p>
-                                        <h4 class="mb-0 fw-bold">9065</h4>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
                     </div>
                     <div class="row">
                       <div class="col-lg-8 d-flex flex-column">
@@ -663,20 +555,6 @@
                                 </div>
                                 <div class="chartjs-bar-wrapper mt-3">
                                   <canvas id="marketingOverview"></canvas>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                        <div class="row flex-grow">
-                          <div class="col-12 grid-margin stretch-card">
-                            <div class="card card-rounded table-darkBGImg">
-                              <div class="card-body">
-                                <div class="col-sm-8">
-                                  <h3 class="text-white upgrade-info mb-0">
-                                    Enhance your <span class="fw-bold">Campaign</span> for better outreach
-                                  </h3>
-                                  <a href="#" class="btn btn-info upgrade-btn">Upgrade Account!</a>
                                 </div>
                               </div>
                             </div>
@@ -911,231 +789,8 @@
                             </div>
                           </div>
                         </div>
-                        <div class="row flex-grow">
-                          <div class="col-md-6 col-lg-6 grid-margin stretch-card">
-                            <div class="card card-rounded">
-                              <div class="card-body card-rounded">
-                                <h4 class="card-title  card-title-dash">Recent Events</h4>
-                                <div class="list align-items-center border-bottom py-2">
-                                  <div class="wrapper w-100">
-                                    <p class="mb-2 font-weight-medium">
-                                      Change in Directors
-                                    </p>
-                                    <div class="d-flex justify-content-between align-items-center">
-                                      <div class="d-flex align-items-center">
-                                        <i class="mdi mdi-calendar text-muted me-1"></i>
-                                        <p class="mb-0 text-small text-muted">Mar 14, 2019</p>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                                <div class="list align-items-center border-bottom py-2">
-                                  <div class="wrapper w-100">
-                                    <p class="mb-2 font-weight-medium">
-                                      Other Events
-                                    </p>
-                                    <div class="d-flex justify-content-between align-items-center">
-                                      <div class="d-flex align-items-center">
-                                        <i class="mdi mdi-calendar text-muted me-1"></i>
-                                        <p class="mb-0 text-small text-muted">Mar 14, 2019</p>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                                <div class="list align-items-center border-bottom py-2">
-                                  <div class="wrapper w-100">
-                                    <p class="mb-2 font-weight-medium">
-                                      Quarterly Report
-                                    </p>
-                                    <div class="d-flex justify-content-between align-items-center">
-                                      <div class="d-flex align-items-center">
-                                        <i class="mdi mdi-calendar text-muted me-1"></i>
-                                        <p class="mb-0 text-small text-muted">Mar 14, 2019</p>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-                                <div class="list align-items-center border-bottom py-2">
-                                  <div class="wrapper w-100">
-                                    <p class="mb-2 font-weight-medium">
-                                      Change in Directors
-                                    </p>
-                                    <div class="d-flex justify-content-between align-items-center">
-                                      <div class="d-flex align-items-center">
-                                        <i class="mdi mdi-calendar text-muted me-1"></i>
-                                        <p class="mb-0 text-small text-muted">Mar 14, 2019</p>
-                                      </div>
-                                    </div>
-                                  </div>
-                                </div>
-
-                                <div class="list align-items-center pt-3">
-                                  <div class="wrapper w-100">
-                                    <p class="mb-0">
-                                      <a href="#" class="fw-bold text-primary">Show all <i
-                                          class="mdi mdi-arrow-right ms-2"></i></a>
-                                    </p>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                          <div class="col-md-6 col-lg-6 grid-margin stretch-card">
-                            <div class="card card-rounded">
-                              <div class="card-body">
-                                <div class="d-flex align-items-center justify-content-between mb-3">
-                                  <h4 class="card-title card-title-dash">Activities</h4>
-                                  <p class="mb-0">20 finished, 5 remaining</p>
-                                </div>
-                                <ul class="bullet-line-list">
-                                  <li>
-                                    <div class="d-flex justify-content-between">
-                                      <div><span class="text-light-green">Ben Tossell</span> assign you a task</div>
-                                      <p>Just now</p>
-                                    </div>
-                                  </li>
-                                  <li>
-                                    <div class="d-flex justify-content-between">
-                                      <div><span class="text-light-green">Oliver Noah</span> assign you a task</div>
-                                      <p>1h</p>
-                                    </div>
-                                  </li>
-                                  <li>
-                                    <div class="d-flex justify-content-between">
-                                      <div><span class="text-light-green">Jack William</span> assign you a task</div>
-                                      <p>1h</p>
-                                    </div>
-                                  </li>
-                                  <li>
-                                    <div class="d-flex justify-content-between">
-                                      <div><span class="text-light-green">Leo Lucas</span> assign you a task</div>
-                                      <p>1h</p>
-                                    </div>
-                                  </li>
-                                  <li>
-                                    <div class="d-flex justify-content-between">
-                                      <div><span class="text-light-green">Thomas Henry</span> assign you a task</div>
-                                      <p>1h</p>
-                                    </div>
-                                  </li>
-                                  <li>
-                                    <div class="d-flex justify-content-between">
-                                      <div><span class="text-light-green">Ben Tossell</span> assign you a task</div>
-                                      <p>1h</p>
-                                    </div>
-                                  </li>
-                                  <li>
-                                    <div class="d-flex justify-content-between">
-                                      <div><span class="text-light-green">Ben Tossell</span> assign you a task</div>
-                                      <p>1h</p>
-                                    </div>
-                                  </li>
-                                </ul>
-                                <div class="list align-items-center pt-3">
-                                  <div class="wrapper w-100">
-                                    <p class="mb-0">
-                                      <a href="#" class="fw-bold text-primary">Show all <i
-                                          class="mdi mdi-arrow-right ms-2"></i></a>
-                                    </p>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
                       </div>
                       <div class="col-lg-4 d-flex flex-column">
-                        <div class="row flex-grow">
-                          <div class="col-12 grid-margin stretch-card">
-                            <div class="card card-rounded">
-                              <div class="card-body">
-                                <div class="row">
-                                  <div class="col-lg-12">
-                                    <div class="d-flex justify-content-between align-items-center">
-                                      <h4 class="card-title card-title-dash">Todo list</h4>
-                                      <div class="add-items d-flex mb-0">
-                                        <!-- <input type="text" class="form-control todo-list-input" placeholder="What do you need to do today?"> -->
-                                        <button
-                                          class="add btn btn-icons btn-rounded btn-primary todo-list-add-btn text-white me-0 pl-12p"><i
-                                            class="mdi mdi-plus"></i></button>
-                                      </div>
-                                    </div>
-                                    <div class="list-wrapper">
-                                      <ul class="todo-list todo-list-rounded">
-                                        <li class="d-block">
-                                          <div class="form-check w-100">
-                                            <label class="form-check-label">
-                                              <input class="checkbox" type="checkbox"> Lorem Ipsum is simply dummy text
-                                              of the printing <i class="input-helper rounded"></i>
-                                            </label>
-                                            <div class="d-flex mt-2">
-                                              <div class="ps-4 text-small me-3">24 June 2020</div>
-                                              <div class="badge badge-opacity-warning me-3">Due tomorrow</div>
-                                              <i class="mdi mdi-flag ms-2 flag-color"></i>
-                                            </div>
-                                          </div>
-                                        </li>
-                                        <li class="d-block">
-                                          <div class="form-check w-100">
-                                            <label class="form-check-label">
-                                              <input class="checkbox" type="checkbox"> Lorem Ipsum is simply dummy text
-                                              of the printing <i class="input-helper rounded"></i>
-                                            </label>
-                                            <div class="d-flex mt-2">
-                                              <div class="ps-4 text-small me-3">23 June 2020</div>
-                                              <div class="badge badge-opacity-success me-3">Done</div>
-                                            </div>
-                                          </div>
-                                        </li>
-                                        <li>
-                                          <div class="form-check w-100">
-                                            <label class="form-check-label">
-                                              <input class="checkbox" type="checkbox"> Lorem Ipsum is simply dummy text
-                                              of the printing <i class="input-helper rounded"></i>
-                                            </label>
-                                            <div class="d-flex mt-2">
-                                              <div class="ps-4 text-small me-3">24 June 2020</div>
-                                              <div class="badge badge-opacity-success me-3">Done</div>
-                                            </div>
-                                          </div>
-                                        </li>
-                                        <li class="border-bottom-0">
-                                          <div class="form-check w-100">
-                                            <label class="form-check-label">
-                                              <input class="checkbox" type="checkbox"> Lorem Ipsum is simply dummy text
-                                              of the printing <i class="input-helper rounded"></i>
-                                            </label>
-                                            <div class="d-flex mt-2">
-                                              <div class="ps-4 text-small me-3">24 June 2020</div>
-                                              <div class="badge badge-opacity-danger me-3">Expired</div>
-                                            </div>
-                                          </div>
-                                        </li>
-                                      </ul>
-                                    </div>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                        <div class="row flex-grow">
-                          <div class="col-12 grid-margin stretch-card">
-                            <div class="card card-rounded">
-                              <div class="card-body">
-                                <div class="row">
-                                  <div class="col-lg-12">
-                                    <div class="d-flex justify-content-between align-items-center mb-3">
-                                      <h4 class="card-title card-title-dash">Type By Amount</h4>
-                                    </div>
-                                    <canvas class="my-auto" id="doughnutChart" height="200"></canvas>
-                                    <div id="doughnut-chart-legend" class="mt-5 text-center"></div>
-                                  </div>
-                                </div>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
                         <div class="row flex-grow">
                           <div class="col-12 grid-margin stretch-card">
                             <div class="card card-rounded">
@@ -1260,15 +915,6 @@
         </div>
         <!-- content-wrapper ends -->
         <!-- partial:partials/_footer.html -->
-        <footer class="footer">
-          <div class="d-sm-flex justify-content-center justify-content-sm-between">
-            <span class="text-muted text-center text-sm-left d-block d-sm-inline-block">Premium <a
-                href="https://www.bootstrapdash.com/" target="_blank">Bootstrap admin template</a> from
-              BootstrapDash.</span>
-            <span class="float-none float-sm-right d-block mt-1 mt-sm-0 text-center">Copyright © 2021. All rights
-              reserved.</span>
-          </div>
-        </footer>
         <!-- partial -->
       </div>
       <!-- main-panel ends -->
