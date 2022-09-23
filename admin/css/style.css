@@ -14,6 +14,7 @@
 
 table{
     text-align: center;
+    width: 1500px;
 }
 
 .product .img{
@@ -24,4 +25,13 @@ table{
 .product .img img{
     height: 100%;
     width: auto;
+}
+
+.des{
+    width: 100px;
+    overflow: auto;
+}
+
+hr{
+    margin: 10px;
 }

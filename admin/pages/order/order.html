@@ -293,21 +293,41 @@
             <div class="main-panel">
                 <div class="content-wrapper">
                     <div class="row">
-                        <div class="col-md-6 grid-margin stretch-card">
-                            <div class="card">
-                                <div class="card-body">
-                                    <h4 class="card-title">Thêm danh mục</h4>
-                                    <form class="forms-sample">
-                                        <div class="form-group">
-                                            <label for="exampleInputUsername1">Tên danh mục</label>
-                                            <input type="text" class="form-control" id="exampleInputUsername1"
-                                                placeholder="Tên danh mục">
-                                        </div>
-                                        <button type="submit" class="btn btn-primary me-2">Submit</button>
-                                        <button class="btn btn-light">Cancel</button>
-                                    </form>
-                                </div>
-                            </div>
+                        <h4 class="card-title">Danh sách đơn hàng</h4>
+                        <div class="table-responsive pt-3">
+                            <table class="table table-bordered product">
+                                <thead>
+                                    <tr>
+                                        <th>ID</th>
+                                        <th>ID Đơn hàng</th>
+                                        <th>ID khách hàng</th>
+                                        <th>Tên khách hàng</th>
+                                        <th>Tên sản phẩm</th>
+                                        <th>Địa chỉ</th>
+                                        <th>Điện thoại</th>
+                                        <th>Ghi chú</th>
+                                        <th>Trạng thái</th>
+                                        <th>Hành động</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>1</td>
+                                        <td>2</td>
+                                        <td>3</td>
+                                        <td>Sú</td>
+                                        <td>khô gà</td>
+                                        <td>landmark81</td>
+                                        <td>0123456789</td>
+                                        <td>không có gì</td>
+                                        <td> <label class="badge badge-warning">đang giao</label> </td>
+                                        <td>
+                                            <button class="badge badge-primary button">Sửa</button>
+                                            <button class="badge badge-danger button">Xóa</button>
+                                        </td>
+                                    </tr>
+                                </tbody>
+                            </table>
                         </div>
                     </div>
                 </div>
@@ -344,5 +364,3 @@
 </body>
 
 </html>
-
-
