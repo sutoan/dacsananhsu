@@ -35,3 +35,15 @@ table{
 hr{
     margin: 10px;
 }
+
+.sua:hover{
+    background-color: #1F3BB3;
+    color: #fff;
+    transition: 1s;
+}
+
+.xoa:hover{
+    background-color: #F95F53;
+    color: #fff;
+    transition: 1s;
+}
