@@ -1,0 +1,33 @@
+.order_detail{
+    padding: 10px;
+    background-color: #fff;
+}
+
+.form-group{
+    margin-bottom: 1.5rem;
+}
+
+.form-group label{
+    font-size: 0.812rem;
+    line-height: 1.4rem;
+    vertical-align: top;
+    margin-bottom: .5rem;
+}
+
+.form-group .form-control{
+    border: 1px solid #dee2e6;
+    font-weight: 400;
+    font-size: 0.875rem;
+    border-radius: 4px;
+    height: 2rem;
+}
+
+.change_password{
+    display: none;
+    margin-top: 10px;
+}
+
+table tbody tr td img{
+    height: 60px;
+    width: auto;
+}
