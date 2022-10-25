@@ -1,30 +1,30 @@
 {
   "danhmuc": [
     {
-      "idDM": "1",
+      "id": "1",
       "TenDM": "Bánh kẹo"
     },
     {
-      "idDM": "2",
-      "TenDM": "Hải sản "
+      "id": "2",
+      "TenDM": "Hải sản"
     },
     {
-      "idDM": "3",
+      "id": "3",
       "TenDM": "Nem tré chả"
     },
     {
-      "idDM": "4",
+      "id": "4",
       "TenDM": "Đặc sản khác"
     }
   ],
-  "sanpham":[
+  "sanpham": [
     {
-      "idSP": "1",
+      "id": "1",
       "TenSP": "KẸO CU ĐƠ",
-      "idDM":"1",
+      "idDM": "1",
       "HinhAnh": "https://toplist.vn/images/800px/cu-do-phong-nga-251866.jpg",
       "DonGia": "55000",
-      "PhanTram":"5",
+      "PhanTram": "5",
       "NgayNhap": "27/8/2022",
       "SoLuong": "45",
       "MoTaSP": "Kẹo Cu Đơ là đặc sản nổi tiếng của  quê hương Hà Tĩnh , thứ mà khách được người dân đôn hậu nơi đây mời đầu tiên  kèm theo bát nước chè xanh. Đó cũng chính là thói quen bao đời, là nét văn hóa ăn sâu vào máu thịt không bao giờ thay đổi của người dân quanh năm gió Lào. Cắn một miếng kẹo cu đơ , uống hớp chè xanh mà vị ngọt và chát hòa tan rất thú vị.",
@@ -32,25 +32,25 @@
       "TrangThai": "0"
     },
     {
-      "idSP": "2",
+      "id": "2",
       "TenSP": "BÁNH KHÔ MÈ",
-      "idDM":"1",
+      "idDM": "1",
       "HinhAnh": "https://dacsanchoque.com/wp-content/uploads/2019/08/banh-kho-me-ba-lieu-me17.jpg",
       "DonGia": "67000",
-      "PhanTram":"5",
+      "PhanTram": "5",
       "NgayNhap": "27/8/2022",
       "SoLuong": "50",
-      "MoTaSP": "Bánh khô mè là đặc sản ngon , chất lượng   và  được chọn là  một trong 50 đặc sản nổi tiếng do Trung tâm Sách kỷ lục Việt Nam công nhận . Giống như những  loại bánh truyền thống - bánh khô, bánh tổ, bánh tét, bánh tráng . Bánh hhô mè Bà Liễu được chế biến từ nguyên liệu của bột gạo - nếp, mè, đường. ở Quảng Nam, cùng với xôi ngọt, khô mè là chút quà được mua về trong những dịp giỗ chạp, lễ Tết ngày trước.",
+      "MoTaSP": "Bánh khô mè Bà Liễu  là đặc sản ngon , chất lượng   và  được chọn là  một trong 50 đặc sản nổi tiếng do Trung tâm Sách kỷ lục Việt Nam công nhận . Giống như những  loại bánh truyền thống - bánh khô, bánh tổ, bánh tét, bánh tráng . Bánh hhô mè Bà Liễu được chế biến từ nguyên liệu của bột gạo - nếp, mè, đường. ở Quảng Nam, cùng với xôi ngọt, khô mè là chút quà được mua về trong những dịp giỗ chạp, lễ Tết ngày trước.",
       "LuotXem": "10",
       "TrangThai": "0"
     },
     {
-      "idSP": "3",
+      "id": "3",
       "TenSP": "MỰC MỘT NẮNG",
-      "idDM":"2",
+      "idDM": "2",
       "HinhAnh": "https://product.hstatic.net/1000030244/product/06_90eb13f0ca554508b45f7477bcc73032_grande.jpg",
       "DonGia": "25000",
-      "PhanTram":"10",
+      "PhanTram": "10",
       "NgayNhap": "27/8/2022",
       "SoLuong": "50",
       "MoTaSP": "Mực là loài đặc sản biển ngon, bổ dưỡng, ai cũng thích ăn. Nhiều món từ mực đều hấp dẫn, mực tươi, mực khô, nửa khô nửa tươi... Mực khô thì nướng, chiên, đều ngon, thơm lừng bốn phương, thật tuyệt. Còn mực tươi chế biến được nhiều món ngon hơn với nhiều hương vị quyến rũ khó mà cưỡng lại được.",
@@ -58,12 +58,12 @@
       "TrangThai": "1"
     },
     {
-      "idSP": "4",
+      "id": "4",
       "TenSP": "CÁ THIỀU TẨM",
-      "idDM":"2",
+      "idDM": "2",
       "HinhAnh": "http://topplus.vn/Userfiles/Upload/images/81850ea0-315a-11ea-b70a-6112d322c53d.jpg",
       "DonGia": "50000",
-      "PhanTram":"10",
+      "PhanTram": "10",
       "NgayNhap": "27/8/2022",
       "SoLuong": "15",
       "MoTaSP": "Cá thiều tẩm là món  đặc sản ngon ở Đà Nẵng ,cá thiều tẩm có mùi thơm thơm của cá nướng , có vị mặm mặm của nước mắm , có vị ngọt ngọt của đường và cay cay của tiêu , tất cả hòa quyện vào nhau làm nên món đặc sản Đà Nẵng có hương vị riêng .",
@@ -71,25 +71,25 @@
       "TrangThai": "1"
     },
     {
-      "idSP": "5",
+      "id": "5",
       "TenSP": "NEM THANH HÓA",
-      "idDM":"3",
-      "HinhAnh": "https://cf.shopee.vn/file/8e8fa836be72ad6bfea905e456631335",
+      "idDM": "3",
+      "HinhAnh": "https://product.hstatic.net/1000194662/product/nem-chua.jpg",
       "DonGia": "50000",
-      "PhanTram":"5",
+      "PhanTram": "5",
       "NgayNhap": "27/8/2022",
       "SoLuong": "15",
-      "MoTaSP": "Nem Thanh Hóa là món đặc sản của người dân Thanh Hóa , là đặc sản ngon và nổi tiếng khắp cả nước . Làm nem chua đã trở thành nghề truyền thống và là niềm tự hào của người dân xứ Thanh.",
+      "MoTaSP": "Nem chua Thanh Hóa là món đặc sản của người dân Thanh Hóa , là đặc sản ngon và nổi tiếng khắp cả nước . Làm nem chua đã trở thành nghề truyền thống và là niềm tự hào của người dân xứ Thanh.",
       "LuotXem": "10",
       "TrangThai": "1"
     },
     {
-      "idSP": "6",
+      "id": "6",
       "TenSP": "CHẢ CÁ",
-      "idDM":"3",
+      "idDM": "3",
       "HinhAnh": "https://www.sieuthimiennam.vn/upload/files/Cha-ca-Nha-Trang-2.jpg",
       "DonGia": "89000",
-      "PhanTram":"5",
+      "PhanTram": "5",
       "NgayNhap": "27/8/2022",
       "SoLuong": "15",
       "MoTaSP": "Chả cá là đặc sản  nổi tiếng khắp cả nước được làm từ cá biển tươi nguyên chất, là một món ăn ngon và hấp dẫn. Với những cách chế biến như: chiên rán, nướng, hấp, nấu canh chua, nấu lẩu.....đều giữ được hương vị thơm ngon từ cá, nó dân dã nhưng không kém phần tinh tế trong cả cách chế biến và thưởng thức.",
@@ -97,12 +97,12 @@
       "TrangThai": "1"
     },
     {
-      "idSP": "7",
+      "id": "7",
       "TenSP": "TỎI ĐEN",
-      "idDM":"4",
+      "idDM": "4",
       "HinhAnh": "https://maylamtoiden.asia/wp-content/uploads/QC2.png",
       "DonGia": "1200000",
-      "PhanTram":"5",
+      "PhanTram": "5",
       "NgayNhap": "27/8/2022",
       "SoLuong": "15",
       "MoTaSP": "Tỏi đen là dược liệu quý có hiệu quả trong phòng và chữa bệnh , tỏi đen được chế biến từ đặc sản tỏi . Tỏi tươi lên men tự nhiên theo quy trình , qua một thời gian dài khoảng 45 ngày trong điều kiện chính xác về nhiệt độ và độ ẩm tỏi tươi  được chuyển hóa thành tỏi đen. ",
@@ -110,12 +110,12 @@
       "TrangThai": "1"
     },
     {
-      "idSP": "8",
+      "id": "8",
       "TenSP": "RƯỢU NHO",
-      "idDM":"4",
+      "idDM": "4",
       "HinhAnh": "https://banhmihuynhhoa.vn/wp-content/uploads/2022/06/Screen-Shot-2022-06-04-at-18.26.56-600x600.jpg",
       "DonGia": "150000",
-      "PhanTram":"5",
+      "PhanTram": "5",
       "NgayNhap": "27/8/2022",
       "SoLuong": "15",
       "MoTaSP": "Rượu nho luôn là loại thức uống được nhiều người ưa chuộng và để ngâm ủ được rượu nho có hương thơm đặc trưng, mùi vị nồng nàn mà lại phải có màu đỏ đẹp thì không phải ai cũng làm được. Rượu nho không quá phức tạp nhưng đòi hỏi sự tỉ mỉ và thời gian ủ lâu dài, nếu bạn ủ càng lâu thì rượu sẽ càng ngon và hấp dẫn hơn. Và hiện nay nhiều người đã tự học cách làm rượu nho để khi đến mùa từ những quả nho chín mọng làm nên những chai rượu nho hảo hạng đến khi nào hết mùa nho thì sẽ mang ra thưởng thức. ",
@@ -123,12 +123,12 @@
       "TrangThai": "1"
     },
     {
-      "idSP": "9",
+      "id": "9",
       "TenSP": "KẸO ME MẢNG CẦU",
-      "idDM":"1",
+      "idDM": "1",
       "HinhAnh": "https://cf.shopee.vn/file/e52d2dcc3495e77490867d83f7f62804",
       "DonGia": "85000",
-      "PhanTram":"5",
+      "PhanTram": "5",
       "NgayNhap": "27/8/2022",
       "SoLuong": "50",
       "MoTaSP": "Kẹo me mảng cầu là đặc sản ngon , kẹo me mảng cầu được sản xuất từ mảng cầu và me . Nhưng với sự khéo léo và tài tình của người sản xuất đã tạo nên món kẹo đặc sản ngon , hình thức hấp dẫn , quyến rũ người ăn từ những vị ngọt ngọt , chua chua , làm người ăn muốn ăn thêm nữa .",
@@ -136,12 +136,12 @@
       "TrangThai": "0"
     },
     {
-      "idSP": "10",
+      "id": "10",
       "TenSP": "KẸO CAU",
-      "idDM":"1",
+      "idDM": "1",
       "HinhAnh": "https://cf.shopee.vn/file/f935ca08c80ab6cc79172ad76448f3b1",
       "DonGia": "49000",
-      "PhanTram":"5",
+      "PhanTram": "5",
       "NgayNhap": "27/8/2022",
       "SoLuong": "50",
       "MoTaSP": "Kẹo cau là đặc sản ngon , nổi tiếng nhưng lại rẽ tiền dễ mua , những người Huế xa quê hương mỗi khi về thăm quê hương bao giờ cũng mua kẹo cau làm món quà cho người thân , bạn bè nhất là cho các em nhỏ . Ngày nay , kẹo cau có mặt khắp nơi trong cả nước , được gói trong giấy bóng kiếng , vừa sạch sẽ vừa hấp dân và đã trở thành món quà đặc sản bình dân nhưng thắm tình xứ Huế thân thương .",
@@ -149,12 +149,12 @@
       "TrangThai": "0"
     },
     {
-      "idSP": "11",
+      "id": "11",
       "TenSP": "BÁNH DỪA DẺO",
-      "idDM":"1",
+      "idDM": "1",
       "HinhAnh": "https://cf.shopee.vn/file/2e5018d661e5106baa66c2da3d6b5bf8",
       "DonGia": "30000",
-      "PhanTram":"15",
+      "PhanTram": "15",
       "NgayNhap": "27/8/2022",
       "SoLuong": "50",
       "MoTaSP": "Bánh dừa dẻo là đặc sản của người Quảng Nam , bánh là từ bột nếp thơm , dừa , đường trắng và vani . Bánh dừa dẻo đặc biệt thơm ngon , hình thức hấp dẫn lôi cuốn người thưởng thức , ăn mãi không ngán .",
@@ -162,12 +162,12 @@
       "TrangThai": "0"
     },
     {
-      "idSP": "12",
+      "id": "12",
       "TenSP": "BÀO NGƯ",
-      "idDM":"2",
+      "idDM": "2",
       "HinhAnh": "http://file.hstatic.net/1000030244/file/bao-ngu-gia-bao-nhieu_0baf601f483148c5aa00c61842a252bd_grande.jpg",
       "DonGia": "235000",
-      "PhanTram":"10",
+      "PhanTram": "10",
       "NgayNhap": "27/8/2022",
       "SoLuong": "50",
       "MoTaSP": "Bào ngư  là một trong những hải sản rất bổ dưỡng, chứa nhiều magiê, vitamin B, E, protein… có lợi cho sức khỏe của con người. Cùng với yến sào và vi cá mập, Bào ngư cũng được xem là món ăn quý trong các bữa tiệc sang trọng. Nó còn là vị thuốc độc đáo trong cả Đông và Tây y.",
@@ -175,12 +175,12 @@
       "TrangThai": "0"
     },
     {
-      "idSP": "13",
+      "id": "13",
       "TenSP": "CÁ NGỰA ĐẶC SẢN",
-      "idDM":"2",
+      "idDM": "2",
       "HinhAnh": "https://cayghepthammy.com/wp-content/uploads/2020/07/ca-ngua-3.jpg",
       "DonGia": "300000",
-      "PhanTram":"10",
+      "PhanTram": "10",
       "NgayNhap": "27/8/2022",
       "SoLuong": "50",
       "MoTaSP": "Cá ngựa là đặc sản của vùng biển Việt Nam , là  nguồn dược liệu quý giá, cùng với bào ngư , sao biển , hải sâm có tác dụng chữa bệnh rất hiệu quả , nhất là bệnh liên quan đến sinh lý nam giới và nữ giới",
@@ -188,12 +188,12 @@
       "TrangThai": "0"
     },
     {
-      "idSP": "14",
+      "id": "14",
       "TenSP": "RONG BIỂN",
-      "idDM":"2",
+      "idDM": "2",
       "HinhAnh": "http://bizweb.dktcdn.net/thumb/grande/100/368/625/products/snack-rong-bien-f9e62b50-0d3a-4a06-bc1d-b2ee2a2fb885.jpg?v=1625651041123",
       "DonGia": "75000",
-      "PhanTram":"10",
+      "PhanTram": "10",
       "NgayNhap": "27/8/2022",
       "SoLuong": "50",
       "MoTaSP": "Rong biển là đặc sản biển Đà Nẵng ngon và chất lượng , là thức ăn giàu chất dinh dưỡng có lợi cho sức khỏe  con người . Hàm lượng vitamin A trong rong biển cao gấp 2-3 lần so với carrot, hàm lượng canxi cao gấp 3 lần so với sữa bò và lượng vitamin B2 cao gấp 4 lần so với trứng…Chất béo trong rong biển có tác dụng điều hòa lượng cholesterol trong máu, ngăn chặn bệnh cao huyết áp và tim mạch. Ngoài ra, trong rong biển còn chứa nhiều Iot, vitamin B2, DHA, và một số dưỡng chất khác cần thiết cho sức khỏe thai phụ.",
@@ -201,12 +201,12 @@
       "TrangThai": "0"
     },
     {
-      "idSP": "15",
+      "id": "15",
       "TenSP": "NEM BÌNH ĐỊNH",
-      "idDM":"3",
+      "idDM": "3",
       "HinhAnh": "https://dacsanbinhdinhonline.com/wp-content/uploads/2019/07/nem-cay-Binh-Dinh.jpg",
       "DonGia": "35000",
-      "PhanTram":"20",
+      "PhanTram": "20",
       "NgayNhap": "29/8/2022",
       "SoLuong": "50",
       "MoTaSP": "Nem Bình Địnhlà đặc sản ngon và nổi tiếng của vùng đất võ . Người Bình Định tha hương sau chuyến thăm nhà thường mang theo một vài thứ phong vị quê mình, trong đó không thể thiếu nem chua . Du khách về vùng đất võ, trước khi rời xa ai cũng cố tìm mua vài chục nem chua làm quà cho người thân.",
@@ -214,12 +214,12 @@
       "TrangThai": "0"
     },
     {
-      "idSP": "16",
+      "id": "16",
       "TenSP": "TRÉ ĐÀ NẴNG",
-      "idDM":"3",
+      "idDM": "3",
       "HinhAnh": "https://media.loveitopcdn.com/21757/tre-dac-san-mien-trung.png",
       "DonGia": "55000",
-      "PhanTram":"10",
+      "PhanTram": "10",
       "NgayNhap": "29/8/2022",
       "SoLuong": "50",
       "MoTaSP": "Tré là một món ăn dân dã có xuất xứ từ miền Trung  , chủ yếu là ở Đà Nẵng , Bình Định... Tré Đà Nẵng có đặc điểm là rất dễ làm , không mất thời gian và có vị chua chua ngọt ngọt và không ngán như nem nướng và nem rán (chả giò). Món này ăn rất ngon .",
@@ -227,12 +227,12 @@
       "TrangThai": "0"
     },
     {
-      "idSP": "17",
+      "id": "17",
       "TenSP": "CHẢ CUA",
-      "idDM":"3",
+      "idDM": "3",
       "HinhAnh": "https://imgcdn.thitruongsi.com/tts/rs:fill:600:0:1:1/g:sm/plain/file://product/2021/11/30/3c84e9c0-51a5-11ec-9f87-eb788d3b236e.jpg",
       "DonGia": "90000",
-      "PhanTram":"25",
+      "PhanTram": "25",
       "NgayNhap": "29/8/2022",
       "SoLuong": "50",
       "MoTaSP": "Chả cua là đặc sản nổi tiếng của xứ Huế , món ăn ngon , rất đậm đà . Hiện nay ở Đà Nẵng có nhiều quán bún chả cua rất ngon và thu hút nhiều khác địa phương cũng như du khách .",
@@ -240,25 +240,25 @@
       "TrangThai": "0"
     },
     {
-      "idSP": "18",
-      "TenSP": "RƯỢU VANG SIM",
-      "idDM":"4",
+      "id": "18",
+      "TenSP": "RƯỢU SIM RỪNG",
+      "idDM": "4",
       "HinhAnh": "https://phuquocxanh.com/vi/wp-content/uploads/2017/08/r%C6%B0%E1%BB%A3u-sim-ph%C3%BA-qu%E1%BB%91c-2.jpg",
       "DonGia": "280000",
-      "PhanTram":"10",
+      "PhanTram": "10",
       "NgayNhap": "29/8/2022",
       "SoLuong": "50",
-      "MoTaSP": "Rượu vang sim là một loại rượu đặc sản của vùng núi Tây Nguyên . Rượu vang sim rừng được làm từ những quả sim chín mọng tươi mát với hương vị ngọt ngào và có rất nhiều công dụng hữu ích cho sức khỏe.",
+      "MoTaSP": "Rượu vang sim rừng là một loại rượu đặc sản của vùng núi Tây Nguyên . Rượu vang sim rừng được làm từ những quả sim chín mọng tươi mát với hương vị ngọt ngào và có rất nhiều công dụng hữu ích cho sức khỏe.",
       "LuotXem": "20",
       "TrangThai": "0"
     },
     {
-      "idSP": "19",
+      "id": "19",
       "TenSP": "SÂM NGỌC LINH",
-      "idDM":"4",
+      "idDM": "4",
       "HinhAnh": "http://product.hstatic.net/1000314519/product/sam_day_ngoc_linh_la_gi_f2f9135f211843d19702a8444544e273_grande.jpg",
       "DonGia": "170000",
-      "PhanTram":"10",
+      "PhanTram": "10",
       "NgayNhap": "29/8/2022",
       "SoLuong": "50",
       "MoTaSP": "Sâm Ngọc Linh là loại sâm quý của Việt Nam , hiêu quả sử dụng trên cả nhân sâm Triều Tiên, nhân sâm Trung Quốc. Sâm Ngọc Linh còn có những đặc tính ưu việt mà các loại nhân sâm khác không có được , đó là nó không có độc tính khi sử dụng liên tục dài ngày, có thể dùng chữa bệnh cho trẻ sơ sinh đến người già .",
@@ -266,12 +266,12 @@
       "TrangThai": "0"
     },
     {
-      "idSP": "20",
+      "id": "20",
       "TenSP": "CÀ PHÊ CHỒN",
-      "idDM":"4",
+      "idDM": "4",
       "HinhAnh": "https://www.tramanhtea-coffee.com/uploads/noidung/ca-phe-chon-0-424.jpg",
       "DonGia": "39000",
-      "PhanTram":"10",
+      "PhanTram": "10",
       "NgayNhap": "29/8/2022",
       "SoLuong": "50",
       "MoTaSP": "Cà phê chồn được coi là thứ đặc sản quý giá của vùng cao nguyên Đăk Lăk - vùng đất vốn nổi tiếng trong và ngoài nước về quy mô và năng suất cà phê.Cà phê là một thức uống được ưa chuộng ở Việt Nam, đặc biệt vào buổi sáng (nhưng hàm lượng cafein rất cao chỉ thích hợp với những người quen dùng hoặc nghiện cà phê . Các quán giải khát (trừ các 'bar') thường gọi là 'quán cà phê' , mặc dù cũng phục vụ những thức uống khác",
@@ -279,110 +279,140 @@
       "TrangThai": "0"
     }
   ],
-  "donhang":[
+  "donhang": [
     {
-      "idDH": "1",
+      "id": "1",
       "idKH": "1",
       "TenKH": "ABC",
-      "DiaCh": "ABC",
+      "DiaChi": "ABC",
       "DienThoai": "0123456789",
       "GhiChu": "ABC",
-      "TrangThai": "0",
+      "TrangThai": "Chờ xác nhận",
       "NgayDatHang": "1/8/2022"
     }
   ],
-  "chitietdonhang":[
+  "chitietdonhang": [
     {
-      "idDH": "",
-      "idSP": "",
-      "DonGia": "",
-      "SoLuong": ""
+      "idDH": "1",
+      "idSP": "1",
+      "DonGia": "55000",
+      "SoLuong": "5",
+      "id": "1"
     }
   ],
-  "khachhang":[
+  "khachhang": [
     {
-      "idKH": "1",
+      "id": "1",
       "TenDangNhap": "khoan",
+      "MatKhau": "666666",
       "HoVaTen": "Phùng Đăng Khoan",
-      "HinhAnh": "avt.jpg",
+      "HinhAnh": "6.png",
       "DiaChi": "abc",
       "Email": "khoan@gmail.com",
-      "TrangThai": "1",
       "VaiTro": "1",
       "DienThoai": "0123456789"
     },
     {
-      "idKH": "2",
+      "id": "2",
       "TenDangNhap": "phat",
+      "MatKhau": "999999",
       "HoVaTen": "Lâm Thịnh Phát",
-      "HinhAnh": "avt.jpg",
+      "HinhAnh": "9.png",
       "DiaChi": "abc",
       "Email": "phat@gmail.com",
-      "TrangThai": "1",
       "VaiTro": "1",
       "DienThoai": "0987654321"
     },
     {
-      "idKH": "3",
+      "id": "3",
       "TenDangNhap": "toan",
+      "MatKhau": "888888",
       "HoVaTen": "Sú Toàn",
-      "HinhAnh": "avt.jpg",
+      "HinhAnh": "8.png",
       "DiaChi": "abc",
       "Email": "toan@gmail.com",
-      "TrangThai": "1",
       "VaiTro": "1",
       "DienThoai": "0123456789"
     }
   ],
   "tintuc": [
     {
-      "idTT": "1",
-      "TieuDe": "Rượu vang nho",
+      "id": "1",
+      "HinhAnh": "https://shop.elim.vn/files/attachments/51/2021/12/be36e6581b9508152237237c165b2659b91e6f42.jpg",
+      "TieuDe": "Đặc sản Ninh Thuận, hương vị đặc sắc xứ sở của nho",
       "TomTat": "Đặc sản Ninh Thuận, hương vị đặc sắc xứ sở của nho",
-      "NoiDung": "Đặc sản Ninh Thuận là những món quà không thể thiếu cho người thân sau mỗi chuyến đi Ninh Thuận của bạn.Và rượu vang nho là một trong những món quà được mọi người ưu ái chọn làm quà để biếu tặng người thân, bạn bè nhằm lưu lại hương vị đặc trưng của quê hương.Sau đây là một gợi ý về địa điểm mua rượu vang nho để các bạn tham khảo",
+      "NoiDung": "Đặc sản Ninh Thuận là những món quà không thể thiếu cho người thân sau mỗi chuyến đi Ninh Thuận của bạn.Và rượu vang nho là một trong những món quà được mọi người ưu ái chọn làm quà để biếu tặng người thân, bạn bè nhằm lưu lại hương vị đặc trưng của quê hương.Sau đây là một gợi ý về địa điểm mua rượu vang nho để các bạn tham khảo.Cách làm rượu nho Ninh Thuận nguyên chất:Cách làm rượu nho Ninh Thuận nguyên chất truyền thống khá đơn giản, người ta chọn những trái nho ngon và không bị dập nát, rửa sạch rồi để ráo nước. Bóp từng trái nho một rồi cho vào thạp nguyên cả vỏ và hột, xếp theo trình tự cứ một lớp nho lại đến một lớp đường cho đến lúc đầy chừng 2/3 thạp (hũ lớn), theo tỷ lệ 3kg nho + 1kg đường (gọi là công thức 3 : 1). Tiếp đến bịt kín miệng thạp rồi ủ chừng vài ba tháng, nho sẽ phân hủy và kết hợp với đường tạo sự lên men vi sinh một cách tự nhiên, làm thành một vị rượu thơm ngon đậm đà.Sau khoảng thời gian ủ nhất định, lấy phần lên men này và loại bỏ phần bã, lóng cặn để có nước rượu trong cho vào một chai thủy tinh hay hũ lớn để  bảo quản. Loại rượu này càng để lâu, hương vị sẽ càng nồng nàn, khi uống vào sẽ cảm nhận được vị ngòn ngọt, cay nồng và mùi thơm rất đặc trưng. Do tỷ lệ đường khi ngâm ủ khá cao đã thành một chất bảo quản tự nhiên nên dù không dùng đến chất bảo quản nào khác, rượu cũng để được khá lâu, miễn là phải được bảo quản cẩn thận, đậy kín nắp, tránh nơi nắng nóng và không khí lọt vào.",
       "NgayDang": "5/8/2022",
+      "TacGia": "admin",
       "LuotXem": "0"
     },
     {
-      "idTT": "2",
+      "id": "2",
+      "HinhAnh": "https://maylamtoiden.asia/wp-content/uploads/QC2.png",
       "TieuDe": "Tỏi đen là gì? Tác dụng của tỏi đen và cách sử dụng",
       "TomTat": "Thực phẩm vàng cho sức khỏe",
-      "NoiDung": "Tỏi đen được sản xuất từ tỏi tươi chất lượng cao, được lựa chọn kỹ càng, trải qua quá trình chế biến trong một thời gian dài khoảng 45 ngày với yêu cầu chính xác về nhiệt độ và độ ẩm. Quá trình chế biến nghiêm ngặt không làm giảm đi các hoạt tính có lợi trong tỏi mà ngược lại còn làm tăng khả năng chống oxy hóa vốn có của tỏi, mang đến hiệu quả cao trong chăm sóc sức khỏe, được các chuyên gia y tế và bác sĩ khuyên dùng.",
+      "NoiDung": "Tỏi đen được sản xuất từ tỏi tươi chất lượng cao, được lựa chọn kỹ càng, trải qua quá trình chế biến trong một thời gian dài khoảng 45 ngày với yêu cầu chính xác về nhiệt độ và độ ẩm. Quá trình chế biến nghiêm ngặt không làm giảm đi các hoạt tính có lợi trong tỏi mà ngược lại còn làm tăng khả năng chống oxy hóa vốn có của tỏi, mang đến hiệu quả cao trong chăm sóc sức khỏe, được các chuyên gia y tế và bác sĩ khuyên dùng.Tỏi tươi có thành phần chính là alliin, hợp chất này dễ bị enzym alliinase thủy phân thành allicin. Còn tỏi đen do có quá trình lên men nên hàm lượng các nhóm hoạt chất đã tăng lên nhiều như các hợp chất sulfur hữu cơ, polyphenol, đường Fructose, đặc biệt hàm lượng hoạt chất chính là S-allyl-L-cystein (SAC) tăng lên gấp 4 - 5 lần so với tỏi thường. Do vậy, tỏi đen có tác dụng mạnh và khác so với tỏi thường.Nhìn chung, tỏi đen khá dễ ăn, khác hoàn toàn với tỏi trắng có mùi hôi và hăng. Tỏi đen có vị ngọt, dẻo, khi bóc không dính tay. Hơn nữa, do không có hoặc ít mùi hăng ăn nên có thể ăn tỏi đen mỗi ngày để tăng cường sức khỏe mà không sợ bị hôi miệng - một sự bất tiện và khá “nhạy cảm” khiến nhiều không dám ăn nhiều, dù biết tỏi tốt cho sức khỏe.",
       "NgayDang": "6/8/2022",
+      "TacGia": "admin",
       "LuotXem": "0"
     },
     {
-      "idTT": "3",
-      "TieuDe": "Đặc sản miền trung - Đặc sản Sứ Thanh Hóa",
+      "id": "3",
+      "HinhAnh": "https://ngonaz.com/wp-content/uploads/2020/12/dac-san-hue.jpg",
+      "TieuDe": "Đặc sản miền trung - Đặc sản Xứ Thanh Hóa",
       "TomTat": "Đặc sản Sứ Thanh",
-      "NoiDung": "Thanh Hóa là mảnh đất đầu tiên của miền Trung Việt Nam. Đây không chỉ là nơi sản sinh ra nhiều vị vua, anh hùng dân tộc mà còn là địa danh của những món đặc sản miền Trung phong phú, đa dạng được nhiều lữ khách nhận xét và đánh giá cao. Một số đặc sản nổi trội nhất ở Thanh Hóa là các loại hải sản tươi sống, hải sản khô vì giáp biển lớn. Bên cạnh đó là những loại thực phẩm khác như nem chua, nem nướng, chả tôm, chẻo nhệch,… Đồ ngọt cũng rất đa dạng bao gồm nhiều kiểu bánh truyền thống như bánh ít, bánh gai Tứ Trụ, bánh răng bừa (bánh tẻ), bánh nhè, bánh đa Minh Châu, bánh khoái nồi rang, bánh đúc sốt,…. Hoa quả thì có đặc sản bưởi Tiến Vua ngon “nhức nách” cùng nhiều thứ đồ ăn quyến rũ, lôi cuốn khác khắp mọi ngõ hẻm của thành phố.",
+      "NoiDung": "Thanh Hóa là mảnh đất đầu tiên của miền Trung Việt Nam. Đây không chỉ là nơi sản sinh ra nhiều vị vua, anh hùng dân tộc mà còn là địa danh của những món đặc sản miền Trung phong phú, đa dạng được nhiều lữ khách nhận xét và đánh giá cao. Một số đặc sản nổi trội nhất ở Thanh Hóa là các loại hải sản tươi sống, hải sản khô vì giáp biển lớn. Bên cạnh đó là những loại thực phẩm khác như nem chua, nem nướng, chả tôm, chẻo nhệch,… Đồ ngọt cũng rất đa dạng bao gồm nhiều kiểu bánh truyền thống như bánh ít, bánh gai Tứ Trụ, bánh răng bừa (bánh tẻ), bánh nhè, bánh đa Minh Châu, bánh khoái nồi rang, bánh đúc sốt,…. Hoa quả thì có đặc sản bưởi Tiến Vua ngon “nhức nách” cùng nhiều thứ đồ ăn quyến rũ, lôi cuốn khác khắp mọi ngõ hẻm của thành phố.Thanh Hóa du khách sẽ được thưởng thức những món đặc sản độc đáo nổi tiếng cả nước của xứ Thanh như: nem chua Thanh Hóa, chè lam Phủ Quảng, dê núi đá, gà đồi (của huyện Vĩnh Lộc), bánh gai Tứ Trụ (của huyện Thọ Xuân), các món chế biến từ hến làng Giàng (huyện Thiệu Hóa), bánh đa cầu Bố (thành phố Thanh Hóa), mía đen Kim Tân, thịt trâu nấu lá lồm, chim mía (huyện Thạch Thành), hay các món hải sản: cua biển, ghẹ, sò huyết, tôm, mực, cá thu, cá tràu từ các huyện, thị xã ven biển Sầm Sơn, Nghi Sơn, Nga Sơn.",
       "NgayDang": "7/8/2022",
+      "TacGia": "admin",
       "LuotXem": "0"
     },
     {
-      "idTT": "4",
-      "TieuDe": "Bánh căn Nha Trang - món ăn thơm béo nuôi lớn những tâm hồn của biển",
+      "id": "4",
+      "HinhAnh": "https://bazantravel.com/cdn/medias/uploads/85/85608-quan-banh-can-nha-trang-ngon-700x700.jpg",
+      "TieuDe": "Bánh căn Nha Trang",
       "TomTat": "Cảm giác ăn bánh căn sẽ thế nào?",
       "NoiDung": "Là chiếc bánh nóng hôi hổi nhúng vào chén mắm béo ngậy, vừa thổi vừa cho vào miệng, tất cả hòa quyện vào nhau thành cảm giác được nghe một bản nhạc giao hưởng. Rồi sau đó: bùm, tuyệt vời như pháo hoa, bay tứ phía. Tóm lại, cô Tư đổ bánh ngon nhất đời. Mùa đông lạnh lẽo, tôi như mê đi với đĩa bánh nóng hôi hổi bên lò than hồng ấm áp. Rất nhiều mùa đông của tôi đã trôi qua nhẹ nhàng như thế. Với tôi, bánh căn không chỉ là món ăn cho no bụng, đó còn là ký ức của tuổi thơ tươi đẹp, là sự thân yêu thuở thiếu thời. Trong những năm tháng tất bật ở Sài thành, có đôi khi mệt mỏI, năng lượng tụt về âm làm tâm hồn trở nên yếu đuối như một cục bùn nhão, việc đúng đắn phải làm ngay lúc đó là gói ghém ít đồ đạc, leo lên xe về quê. Sau một đêm ngủ trên xe, mở mắt ra sẽ được thấy biển, thấy má, thấy cả cô Tư. Tôi sẽ được lấp đầy năng lượng, để quay lại và tiếp tục chiến đấu như một chiến binh.",
       "NgayDang": "8/8/2022",
+      "TacGia": "admin",
       "LuotXem": "0"
     },
     {
-      "idTT": "5",
+      "id": "5",
+      "HinhAnh": "https://emvaobep.com/wp-content/uploads/2018/01/cach-nau-oc-gao-ngon-2.jpg",
       "TieuDe": "Thơm nồng ốc gạo miền Trung",
       "TomTat": " Ốc gạo hay còn gọi là ốc lể, ốc ngũ sắc, ốc ruốc, sống ở vùng nước lợ, chỉ nhỏ bằng đầu ngón tay út nhưng thịt thơm ngon.",
       "NoiDung": "Ốc gạo sống ở dọc vùng biển miền Trung nhưng ngon nhất là ốc ở vùng Cửa Đại, nơi được phù sa sông Thu Bồn bồi đắp. Vào cuối vụ, ốc gạo Hội An lên tới 15.000 đồng một lon trong khi ốc ở Huế, Nam Ô, Tam Kỳ, Quảng Ngãi vẫn chỉ 3.000-5.000 đồng. Cách phân biệt ốc ở vùng nào dựa vào màu sắc. Ốc Huế, Lăng Cô, Nam Ô có màu đỏ, ốc Tam Kỳ, Quảng Ngãi màu trắng, ốc Cửa Đại màu xám. Vì vậy, dù giá chênh lệch, người bán hàng vẫn khó đánh tráo được người sành ăn.",
       "NgayDang": "9/8/2022",
+      "TacGia": "admin",
+      "LuotXem": "0"
+    },
+    {
+      "id": "6",
+      "HinhAnh": "https://media.doanhnghiepvn.vn/Images/Uploaded/Share/2020/12/12/An-la-me-voi-bun-ca-ngu-ngon-nhat-chuan-vi-mien-Trung_2.jpg",
+      "TieuDe": "Bún cá đặc sản miền Trung",
+      "TomTat": " Xuýt xoa thưởng thức món bún cá đặc sản miền Trung đã ăn là khó lòng dừng đũa",
+      "NoiDung": "Bún cá là một trong những món ăn dân dã đặc trưng của người dân miền Trung. Du khách từng có dịp đến với mảnh đất miền duyên hải hầu hết đều phải tìm đến để thưởng thức hương vị đặc sản này ít nhất một lần.Bên cạnh món bún chả cá vô cùng phổ biến ở dọc các hàng quán từ bình dân đến nhà hàng sang trọng còn có bún cá ngừ cũng gây 'nghiện'không kém. Cá ngừ là loại cá bổ dưỡng, tốt cho sức khỏe. Thịt cá chắc ngọt nấu nước dùng, ăn kèm với bún và thêm ít rau sống trong một buổi chiều mưa se lạnh thì quả là không thể chê vào đâu được.Khác với chả cá, món bún cá ngừ được sử dụng nguyên khối, thịt được cắt thành khoanh và kho sơ qua với gia vị cho ngấm. Sau khi phi hành tỏi cho dậy mùi cùng với dứa và cà chua, người chế biến sẽ bắt đầu cho nước vào nấu sôi, nêm nếm gia vị vừa ăn rồi tiếp tục bỏ cá vào ninh cho đến khi mọi thứ thấm đều lên tất cả các nguyên liệu.",
+      "NgayDang": "25/9/2022",
+      "TacGia": "Lê Văn Tèo",
       "LuotXem": "0"
     }
   ],
   "binhluan": [
     {
-      "idBL": "",
-      "idKH": "",
-      "idSP": "",
-      "NoiDung": "",
-      "ThoiGian": ""
+      "id": "1",
+      "idKH": "1",
+      "idSP": "2",
+      "idTT": "0",
+      "NoiDung": "sp uy tín",
+      "ThoiGian": "1-9-2022"
+    },
+    {
+      "id": "2",
+      "idKH": "2",
+      "idSP": "0",
+      "idTT": "1",
+      "NoiDung": "good",
+      "ThoiGian": "5-9-2022"
     }
   ]
 }
